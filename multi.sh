@@ -178,7 +178,7 @@ if [ $release = "Centos" ]
 		yellow " 不支持当前系统 "
 		exit 1
 	fi
-wget -N -6 https://cdn.jsdelivr.net/gh/ygkkk/EUservWARP/wgcf
+wget -N -6 https://cdn.jsdelivr.net/gh/ygkkk/WarpEUserv/wgcf
 cp wgcf /usr/local/bin/wgcf
 sudo chmod +x /usr/local/bin/wgcf
 echo | wgcf register
@@ -237,7 +237,7 @@ if [ $release = "Centos" ]
 		yellow " 不支持当前系统 "
 		exit 1
 	fi
-wget -N -6 https://cdn.jsdelivr.net/gh/ygkkk/EUservWARP/wgcf
+wget -N -6 https://cdn.jsdelivr.net/gh/ygkkk/WarpEUserv/wgcf
 cp wgcf /usr/local/bin/wgcf
 sudo chmod +x /usr/local/bin/wgcf
 echo | wgcf register
@@ -297,7 +297,7 @@ if [ $release = "Centos" ]
 		yellow " 不支持当前系统 "
 		exit 1
 	fi
-wget -N -6 https://cdn.jsdelivr.net/gh/ygkkk/EUservWARP/wgcf
+wget -N -6 https://cdn.jsdelivr.net/gh/ygkkk/WarpEUserv/wgcf
 cp wgcf /usr/local/bin/wgcf
 sudo chmod +x /usr/local/bin/wgcf
 echo | wgcf register
