@@ -27,7 +27,7 @@
 
 4、OpenVZ、LXC架构的VPS并不集成在此脚本中。
 
-#### OpenVZ、LXC架构纯V6脚本:[EUserv 纯ipv6(OpenVZ、LXC架构VPS)WARP项目](https://github.com/ygkkk/EUservWARP)。
+#### OpenVZ、LXC架构纯V6脚本:[EUserv 纯ipv6(OpenVZ、LXC架构VPS)WARP项目](https://github.com/ygkkk/WarpEUserv)。
 
 --------------------------------------------------------------------------------------------
 
