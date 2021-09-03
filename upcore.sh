@@ -45,7 +45,7 @@ reboot
 }
 
 function v6(){
-echo -e nameserver 2a00:1098:2c::1 > /etc/resolv.conf
+echo -e "search blue.kundencontroller.de\noptions rotate\nnameserver 2001:67c:2b0::4\nnameserver 2001:67c:2b0::6" > /etc/resolv.conf
 cd /tmp
 wget --no-check-certificate -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11/amd64/linux-headers-5.11.0-051100_5.11.0-051100.202102142330_all.deb
 wget --no-check-certificate -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.11/amd64/linux-headers-5.11.0-051100-generic_5.11.0-051100.202102142330_amd64.deb 
